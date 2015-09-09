@@ -1,0 +1,6 @@
+C:\Users\Sri\Desktop\Practice Projects\AngularApp\AngularApp\bin\AngularApp.dll.config
+C:\Users\Sri\Desktop\Practice Projects\AngularApp\AngularApp\bin\AngularApp.dll
+C:\Users\Sri\Desktop\Practice Projects\AngularApp\AngularApp\bin\AngularApp.pdb
+C:\Users\Sri\Desktop\Practice Projects\AngularApp\AngularApp\obj\Debug\AngularApp.csprojResolveAssemblyReference.cache
+C:\Users\Sri\Desktop\Practice Projects\AngularApp\AngularApp\obj\Debug\AngularApp.dll
+C:\Users\Sri\Desktop\Practice Projects\AngularApp\AngularApp\obj\Debug\AngularApp.pdb
